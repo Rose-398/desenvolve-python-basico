@@ -1,1 +1,10 @@
-
+Leia o numero para o qual se deseja aplicar a regra do truque da tabuada do 9.
+Atribua esse valor para variável n
+Aplique a operação de subtrair 1 da variável n
+Armazene o resultado na variável digito 1
+Aplique a opração de subtrair a variável n do numero 10
+Armazene o resultado na variável digito 2
+Aplique a operação de multiplicar a variavel digito 1 por 10
+Armazene o resultado na variável resultado
+Aplique a operação de somar digito 2 a variavel resultado
+Apresente o resultado
