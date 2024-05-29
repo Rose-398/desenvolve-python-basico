@@ -1,4 +1,4 @@
-Leia o numero para o qual se deseja aplicar a regra do truque da tabuada do 9.
+https://github.com/Rose-398/desenvolve-python-basico/blob/main/modulo%201/dissertativa.txtLeia o numero para o qual se deseja aplicar a regra do truque da tabuada do 9.
 Atribua esse valor para variável n
 Aplique a operação de subtrair 1 da variável n
 Armazene o resultado na variável digito 1
