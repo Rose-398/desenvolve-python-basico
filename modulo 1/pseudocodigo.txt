@@ -1,7 +1,7 @@
-1 - Inicio
-2 - Leia n;
-3 - digito 1 = n - 1;
-4 - digito 2 = 10 - n;
-5 - resultado = digito 1 x 10 + digito 2
-6 - Imprima resultado;
-7 - Fim
+1. Inicio;
+2. Leia n;
+3. digito 1 = n - 1;
+4. digito 2 = 10 - n;
+5. resultado = (digito 1 x 10) + digito 2
+6. Imprima resultado;
+7. Fim;
